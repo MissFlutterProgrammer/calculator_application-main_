@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  math_expressions: ^2.6.0
+  math_expressions: any
   hexcolor: ^3.0.1
   cupertino_icons: ^1.0.8
 
